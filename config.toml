@@ -1,0 +1,4 @@
+baseURL = "http://shagi.uk/"
+languageCode = "en-gb"
+title = "Super Human Artificial General Intelligence"
+theme = "kube"
