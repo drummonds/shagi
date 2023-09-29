@@ -10,4 +10,6 @@ toc = true
 +++
 # My aim
 
-My aim is to to clarify my own thinking and to explore ways in that the AI threat can be mitigated.
+My aim was to to clarify my own thinking and to explore ways in that the AI threat can be mitigated.  I no longer think it can be averted
+or really controlle.  Just hope the best possible version arrives.
+

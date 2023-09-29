@@ -1,4 +1,4 @@
-baseURL = "http://shagi.uk/"
+baseURL = "http://shagi.netlify.app/"
 languageCode = "en-gb"
 title = "Super Human Artificial General Intelligence"
 theme = "kube"

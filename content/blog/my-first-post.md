@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Reason
-Starting late in 2020 I wanted to start writing.  Since the late 90's I have been wondering about the impact of greater computer power and when that might be.  At the time I thought it would be in about 10 years.  2010 has come and gone and so has computer power and the exaflop machine is in site.
+Starting late in 2020 I wanted to start writing.  Since the late 90's I have been wondering about the impact of greater computer power and when that might be.  At the time I thought it would be in about 10 years.  2010 has come and gone and so has computer power and the exaflop machine exists.
 
 Nick Bostrom has categorised the various existential risks humanity faces.  SHAGI worries me the most.
 
