@@ -6,7 +6,7 @@ draft: false
 
 I have come the view that there life moves in a direction and there is nothing that can stop us getting to the novacene.  A friend of mine asked if I had a crystal ball but I believe is easier to look at the broad sweep of human life and life on our planet.
 
-I have started doing a project about scientific bunting which for length has a little triangular flag from every power of 10 dimension from 10^-35, the Planck length to 10^28 the size of universe.  At the smallest dimension lengths become quantum so that it doesn't really mean anything and at the largest dimensions Space time is far from linear so the concept of a length no longer means very much.  Happily in the middle from about 10{{<rawhtml>}}<sup>-4</sup>{{</rawhtml>}} the thickness of hair to about 10^8 the furthest distance a human could walk in their lifetime is the realm of human existence.
+I have started doing a project about scientific bunting which for length has a little triangular flag from every power of 10 dimension from 10{{<r>}}<sup>-35</sup>{{</r>}}, the Planck length to 10{{<r>}}<sup>-28</sup>{{</r>}}the size of universe.  At the smallest dimension lengths become quantum so that it doesn't really mean anything and at the largest dimensions Space time is far from linear so the concept of a length no longer means very much.  Happily in the middle from about 10{{<r>}}<sup>-4</sup>{{</r>}} the thickness of hair to about 10{{<r>}}<sup>8</sup>{{</r>}} the furthest distance a human could walk in their lifetime is the realm of human existence.
 
 Humans have been around for 2-300,000 years but as we look back on the traces our ancestors have left it is only in the last 50,000 years that there has been the start of an outpouring of human art and artifacts.
 
